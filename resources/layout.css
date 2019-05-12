@@ -6,6 +6,7 @@
 body {
 	font-family: Helvetica, Arial, sans-serif;
 	background: #f4f4f4;
+	margin: 0;
 }
 
 h1, h2, h3 {
@@ -50,6 +51,11 @@ a:hover {
 	margin: 0;
 }
 
+.colorAboutMe {
+	color: white;
+	font-size: 30px
+}
+
 .image_background {
 	background-image:url("../marisa_image.jpg");
 	background-repeat: no-repeat;
@@ -61,6 +67,7 @@ a:hover {
 	padding-bottom: 142px;
 	color: white;
 	font-size: 40px;
+	padding-left: 10px 
 }
 .intro_homepage {
 	color:white;
