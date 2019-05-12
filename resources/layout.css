@@ -1,12 +1,12 @@
 
 body {
 	font-family: Helvetica, Arial, sans-serif;
-	background: #f4f4f4;
+	background:white;
 	margin: 0;
 }
 
 h1, h2, h3 {
-	color: #222;
+	color:#A04000      ;
 }
 
 p {
@@ -14,8 +14,12 @@ p {
 	color: #555;
 }
 
+ul {
+	color: #555;
+}
+
 a {
-	color: green;
+	color: #EC7063;
 	text-decoration: none;
 }
 
@@ -29,7 +33,7 @@ a:hover {
 }
 
 #header, #nav  {
-	border-bottom: 1px solid #999;
+	border-bottom: 1px solid #D5D8DC;
 }
 
 #nav {
@@ -64,7 +68,7 @@ a:hover {
 	padding-bottom: 142px;
 	color: white;
 	font-size: 40px;
-	padding-left: 10px 
+	padding-left: 10px; 
 }
 .intro_homepage {
 	color:white;
